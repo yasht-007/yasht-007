@@ -19,7 +19,7 @@
 <a href="https://polygon.technology/" target="_blank"><img src="https://cryptologos.cc/logos/polygon-matic-logo.png" alt="Polygon Matic" width="50" height="50"></img> </a> &nbsp;
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" width="50" height="50"> </img> &nbsp;
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS" width="50" height="50"></img> </a> 
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://drive.google.com/file/d/1HQ1NXgyPWv6VdbCFNy5bNR6noqWLaMYe/view?usp=sharing" alt="MongoDb" width="50" height="50"></img> </a> 
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://pasteboard.co/To8iMwBsYHS6.png" alt="MongoDb" width="50" height="50"></img> </a> 
 </p>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=yasht-007&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github-readme-stats.vercel.app/api?username=yasht-007&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
