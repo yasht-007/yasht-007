@@ -1,7 +1,7 @@
 ### Hi there,   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> I'm Yash Tiwari
 
  
-👯 I’m a Blockchain/MERN Stack Developer
+👯 I’m a Blockchain | MERN Stack Developer
  #### 📫 How to reach me:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/yash-tiwari-7113b5215/)
