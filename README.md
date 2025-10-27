@@ -2,12 +2,6 @@
 
  
 👯 I’m a Blockchain | MERN Stack Developer
- #### 📫 How to reach me:
-
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/yash-tiwari-7113b5215/)
- &nbsp; &nbsp;<a href="mailto:official.yasht@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-
- 
 
 #### 👨🏻‍💻 Languages and Tools <br />
 <p align="right"> 
