@@ -1,4 +1,4 @@
-### Hi there,   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> I'm Yash Tiwari
+### Hi there,   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
  
 👯 I’m a Blockchain | MERN Stack Developer
